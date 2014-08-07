@@ -1,5 +1,11 @@
 # Live (GitHub-Flavored) Markdown Editor
 
-[Use it here](//jbt.github.io/markdown-editor)
+Based on [jbt](https://github.com/jbt/markdown-editor)'s one.
 
-Feel free to take the code and copy it and modify it and use it however you like. (If you really want a licence, see [WTFPL](http://www.wtfpl.net/txt/copying/))
+Edited some css, moved some files, deleted unused ones, made more "embeddable".
+
+(jbt didn't says that ctrl+s is supported to save just written markdown)
+
+___
+
+Same [WTFPL](http://www.wtfpl.net/txt/copying/) licence.
