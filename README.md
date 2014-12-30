@@ -4,7 +4,7 @@ Based on [jbt](https://github.com/jbt/markdown-editor)'s one.
 
 Edited some css, moved some files, deleted unused ones, made more "embeddable".
 
-(jbt didn't says that ctrl+s is supported to save just written markdown)
+(jbt didn't say that ctrl+s is supported to save just written markdown)
 
 ___
 
